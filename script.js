@@ -18,7 +18,7 @@ const reinos = {
             {
                 pregunta: "Resuelve: 3/4 + 2/5 = ?",
                 opciones: ["19/20", "23/20", "7/9"],
-                respuesta: 0,
+                respuesta: 1,
                 explicacion: "La suma de fracciones se realiza encontrando un denominador común.",
             },
             {
